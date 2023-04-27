@@ -4,7 +4,7 @@
 
 1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>SQL.ipynb</b></a> Проект по SQL
 
-2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.
+2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb> <b>AB_test.ipynb</b></a> Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.
 
 3. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/bank_clasters.ipynb Анализ оттока клиентов банка, Презентация и дашборд.
 
