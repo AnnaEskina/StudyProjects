@@ -2,11 +2,25 @@
 
 ### Учебные проекты 
 
-1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>SQL.ipynb</b></a> SQL
+1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>SQL.ipynb</b></a> Проект по SQL
 
-3. > <b>estate_market.ipynb</b></a>  Анализ рынка недвижимости Лениградской области на основе данных Яндекс Недвижимости. 
+2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.
 
-estate_market.ipynb Анализ рынка недвижимости Лениградской области на основе данных Яндекс Недвижимости.
+3. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/bank_clasters.ipynb Анализ оттока клиентов банка, Презентация и дашборд.
+
+4. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/online_store_ab_test.ipynb  Анализ результатов А/В-теста с применением статистических методов, приоретизация и проверка гипотез.
+
+5.  <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/online_store_ab_test.ipynb  Анализ результатов А/В-теста с применением статистических методов, приоретизация и проверка гипотез.   
+
+6.  <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/events_mobile_aab_test.ipynb  Изучение воронки продаж и проверка результатов AA/B-теста с помощью статистических методов.
+       
+7.   <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/events_mobile_aab_test.ipynb  Изучение воронки продаж и проверка результатов AA/B-теста с помощью статистических методов.
+
+8.  <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/platform_games.ipynb  Изучение рынка игр для платформ и консолей по историческим данным за 36 лет (до 2016 года).
+       
+9.  <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/estate_market.ipynb  Анализ рынка недвижимости Лениградской области на основе данных Яндекс Недвижимости.
+      
+      estate_market.ipynb Анализ рынка недвижимости Лениградской области на основе данных Яндекс Недвижимости.
 
 platform_games.ipynb Изучение рынка игр для платформ и консолей по историческим данным за 36 лет (до 2016 года).
 
