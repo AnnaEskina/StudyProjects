@@ -2,7 +2,7 @@
 
 ### Учебные проекты 
 
-1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>SQL.ipynb</b></a> Проект по SQL
+1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>Анализ базы данных сервиса для чтения книг.</b></a> 
 
 2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb> <b>AB_test.ipynb</b></a> Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.
 
