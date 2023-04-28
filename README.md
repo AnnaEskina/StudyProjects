@@ -2,9 +2,9 @@
 
 ### Учебные проекты 
 
-1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>Анализ базы данных сервиса для чтения книг.</b></a> 
+1. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/SQL.ipynb> <b>Финальный проект по SQL - Анализ базы данных сервиса для чтения книг.</b></a> 
 
-2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb> <b>AB_test.ipynb</b></a> Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.
+2. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/AB_test.ipynb> <b>Анализ корректности проведения и результатов А/В-теста пользователей интернет-магазина.</b></a> 
 
 3. <a href=https://github.com/AnnaEskina/StudyProjects/blob/main/bank_clasters.ipynb> <b>bank_clasters.ipynb</b></a> Анализ оттока клиентов банка, Презентация и дашборд.
 
